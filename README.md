@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MSBTE Nation](https://play.google.com/store/apps/details?id=com.msbtenote.msbtenation&hl=en&gl=US)
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning Python**
 
 - 📫 How to reach me **prathameshjadhav1470@gmail.com**
 
