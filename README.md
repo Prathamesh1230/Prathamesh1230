@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MSBTE Nation](https://play.google.com/store/apps/details?id=com.msbtenote.msbtenation&hl=en&gl=US)
 
-- 🌱 I’m currently learning - Python | Data Structures | 
+- 🌱 I’m currently learning - Python | XML (front end) | Data Structures | 
 
 - 📫 How to reach me **prathamesh1470@gmail.com**
 
