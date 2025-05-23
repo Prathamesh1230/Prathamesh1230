@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Vijay Jadhav</h1>
-<h3 align="center">A developer from India</h3>
-
-
-- 🔭 I’m currently working on [MSBTE Nation](https://play.google.com/store/apps/details?id=com.msbtenote.msbtenation&hl=en&gl=US)
-
-- 🌱 I’m currently learning - Python | XML (front end) | Data Structures | 
-
-- 📫 How to reach me **prathamesh1470@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
