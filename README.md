@@ -1,7 +1,10 @@
 # 💫 About Me:
-I am a final-year Computer Engineering student  <br>
-Skilled in Python and SQL  <br>
-Interested in Data Analytics and problem-solving  <br>
+I am a final-year Computer Engineering student passionate about Data Analytics.
+
+• Strong foundation in Python, SQL, and data analysis libraries   
+• Interested in Data Analytics and problem-solving  
+• Actively building projects in Python, Power BI, and SQL
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prathamesh%20Jadhav)
