@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 I am a final-year Computer Engineering student with a growing interest in Data Analytics and problem solving.
 • Skilled in Python, SQL, and Data analysis libraries   
 
