@@ -1,8 +1,7 @@
 # 💫 About Me:
 I am a final-year Computer Engineering student passionate about Data Analytics.
 
-• Strong foundation in Python, SQL, and data analysis libraries   
-• Interested in Data Analytics and problem-solving  
+• Skilled in Python, SQL, and Data analysis libraries   
 • Actively building projects in Python, Power BI, and SQL
 
 
