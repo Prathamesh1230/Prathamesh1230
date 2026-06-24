@@ -1,6 +1,9 @@
 # 👨‍💻 About Me:
-I am a final-year Computer Engineering student with a growing interest in Data Analytics and problem solving.                                                                                                          
-Skilled in Python, SQL, and Data analysis libraries   
+Computer Engineering student passionate about Data Analytics, Machine Learning, and AI-powered applications.
+
+Experienced in Python, SQL, Power BI, and FastAPI, with hands-on projects in predictive analytics, NLP, GenAI, and business intelligence.
+
+Currently building end-to-end data and AI solutions that transform raw data into actionable insights.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-jadhav-7272pj/)
