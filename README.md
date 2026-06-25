@@ -8,7 +8,7 @@ Currently building end-to-end data and AI solutions that transform raw data into
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-jadhav-7272pj/)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
